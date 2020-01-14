@@ -1,0 +1,12 @@
+Package: nautilus
+Title: Draws a modified stars (or radar) plot
+Version: 0.0.0.9000
+Author: Stephan Schlickeiser <stephan.schlickeiser@charite.de>
+Maintainer: Stephan Schlickeiser <stephan.schlickeiser@charite.de>
+Description: This package contains a single function (based on stars {graphics}) which has been tailored to make the stars (or radar) plot resemble a nautilus.
+Depends: R (>= 3.5.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: graphics,stats
